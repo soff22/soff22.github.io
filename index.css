@@ -6,3 +6,31 @@ li {display:inline-block;
 	background-color: yellow;
 	font-weight:bold;
 }
+
+h1 {
+	font-size: 25px;
+	color: purple;
+	text-decoration: underline;
+}
+
+p #first {
+	font-size: 20px;
+	color: blue;
+}
+
+p #second {
+	font-size:22px;
+	color: green;
+	font-weight: bold;
+}
+
+p #third {
+	font-size: 24px;
+	color: orange;
+	font-style: italic;
+}
+
+a:hover {
+	text-decoration: none;
+	color: green;
+}
