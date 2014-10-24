@@ -23,13 +23,13 @@ p #first {
 }
 
 p #second {
-	font-size:22px;
+	font-size:26px;
 	color: green;
 	font-weight: bold;
 }
 
 p #third {
-	font-size: 24px;
+	font-size: 32px;
 	color: orange;
 	font-style: italic;
 }
