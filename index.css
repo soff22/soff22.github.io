@@ -17,18 +17,18 @@ h1 {
 	text-decoration: underline;
 }
 
-p #first {
-	font-size: 20px;
+p.first {
+	font-size: 29px;
 	color: blue;
 }
 
-p #second {
+p.second {
 	font-size:26px;
 	color: green;
 	font-weight: bold;
 }
 
-p #third {
+p.third {
 	font-size: 32px;
 	color: orange;
 	font-style: italic;
