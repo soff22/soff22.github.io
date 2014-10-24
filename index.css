@@ -19,8 +19,12 @@ h1 {
 	font-size: 30px;
 	color: black;
 	border: 5px dotted;
-	width:320px;
+	border-width:320px;
 	margin-bottom: 30px;
+}
+
+p {
+	color:#14141F;
 }
 
 p.first {
@@ -28,21 +32,18 @@ p.first {
 	border-bottom: 4px dotted;
 	border-right: 2px solid blue;
 	border-left: 2px solid green;
-	width: 320px;
+	border-width: 320px;
 	font-size: 20px;
-	color: dark grey;
 	font-style: italic;
 }
 
 p.second {
 	font-size:24px;
-	color: dark grey;
 	font-style: italic;
 }
 
 p.third {
 	font-size: 26px;
-	color: dark grey;
 	font-style: italic;
 }
 
