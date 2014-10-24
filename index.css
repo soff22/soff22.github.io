@@ -13,7 +13,7 @@ li {display:inline-block;
 }
 
 h1 {
-	font-size: 25px;
+	font-size: 30px;
 	color: purple;
 	text-decoration: underline;
 	border: 5px dotted;
@@ -28,18 +28,18 @@ p.first {
 	border-left: 2px solid green;
 	width: 320px;
 	text-align: center;
-	font-size: 29px;
+	font-size: 20px;
 	color: blue;
 }
 
 p.second {
-	font-size:26px;
+	font-size:24px;
 	color: green;
 	font-weight: bold;
 }
 
 p.third {
-	font-size: 32px;
+	font-size: 26px;
 	color: orange;
 	font-style: italic;
 }
