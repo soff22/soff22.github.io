@@ -16,6 +16,8 @@ h1 {
 	color: purple;
 	text-decoration: underline;
 	border: 5px dotted;
+	width:320px;
+	text-align: center;
 }
 
 p.first {
