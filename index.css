@@ -21,6 +21,10 @@ h1 {
 }
 
 p.first {
+	border-top: 2px dashed;
+	border-bottom: 4px dotted;
+	border-right: 2px solid blue;
+	border-left: 2 px solid green;
 	font-size: 29px;
 	color: blue;
 }
