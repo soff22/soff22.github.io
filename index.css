@@ -35,6 +35,7 @@ p.first {
 	border-right: 2px solid blue;
 	border-left: 2px solid green;
 	margin-left:450px;
+	width:320px;
 	font-size: 20px;
 	padding:4px 4px;
 	font-style: italic;
