@@ -20,7 +20,7 @@ h1 {
 	color: black;
 	border: 5px dotted;
 	margin-bottom: 30px;
-	padding:4px;
+	padding:4px 4px;
 }
 
 p {
@@ -33,7 +33,7 @@ p.first {
 	border-right: 2px solid blue;
 	border-left: 2px solid green;
 	font-size: 20px;
-	padding:4px;
+	padding:4px 4px;
 	font-style: italic;
 }
 
