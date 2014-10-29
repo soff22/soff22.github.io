@@ -1,6 +1,6 @@
 
 body {
-	background-color: #CCFFFF;
+	background-color: #FFCC66;
 }
 
 h1 {
@@ -24,4 +24,5 @@ p {
 a {
 	color: dark orange;
 	font-size: 20px;
+	text-decoration: none;
 }
