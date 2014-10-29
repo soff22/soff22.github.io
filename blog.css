@@ -1,3 +1,8 @@
+
+body {
+	background-color: #CCFFFF;
+}
+
 h1 {
 	color: dark blue;
 	text-decoration: underline;
@@ -11,7 +16,6 @@ p {
 .beginning {
 	text-align: left;
 	color: dark green;
-	text-decoration: underline;
 	font-size: 18px;
 	font-style: italic;
 	font-weight: bold;
