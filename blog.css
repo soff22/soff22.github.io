@@ -27,14 +27,7 @@ h1 {
 
 p {
 	color:light blue;
-}
-
-.beginning {
-	text-align: left;
-	color: dark green;
-	font-size: 18px;
-	font-style: italic;
-	font-weight: bold;
+	text-align: justify;
 }
 
 a {
